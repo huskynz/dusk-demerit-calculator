@@ -1,11 +1,8 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/HuskyNZ/ara-python-25">
-    <img src="https://serv.hnz.li/logo/default.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">PUT TITLE OF REPO HERE</h3>
-  <p align="center">This is a base for all new repos within the HuskyNZ Github org</p>
+  
+  <h3 align="center">Duskire Demerit Points Calculator</h3>
+  <p align="center">Duskire's version of the demerit point calculator in Flask</p>
   <br>
 
 </p>
@@ -14,14 +11,17 @@
 
 ## About The Project
 
-USE THIS AS A TEMPLATE
-
+Demerit point calculator made for a course project, hosted at [demerit.duskire.com](https://demerit.duskire.com)
 
 ## Built With
 
-- Put what the project is built in
+- Flask
+- Python
+- HTML
+- Bootstrap
 
 ## Roadmap
+
 N/A
 
 ## Contributing
@@ -34,10 +34,10 @@ Distributed under the MIT License. See [LICENSE](https://github.com/huskynz/temp
 
 ## Authors
 
-- [HuskyNZ](https://www.husky.nz)
+- [Duskire](https://duskire.com)
 
-- Add any other authors here
+- [HuskyNZ](https://www.husky.nz)
 
 ## Acknowledgements
 
-- PUT ANY OTHER INFO HERE
+- HuskyNZ for creating the docker file and requirements
